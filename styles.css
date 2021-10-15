@@ -154,6 +154,8 @@ div {
 .mainhead {
     grid-area: mainhead;
     height: 40px;
+    margin-left: 29%;
+    margin-top: 4%;
 }
 
 .mainhead h1 {
@@ -163,6 +165,8 @@ div {
 
 .form {
     grid-area: form;
+    margin-left: 20%;
+    margin-top: 2%;
     
 }
 input {
