@@ -123,6 +123,9 @@ main p {
     grid-area: artical1;
     background-color: #969696;
 }
+b{
+ color:blue;
+}
 
 .artical {
     grid-area: artical2;
