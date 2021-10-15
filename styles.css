@@ -167,7 +167,7 @@ div {
 }
 input {
     padding-top: 10px;
-    display: flexbox;
+    
 }
 input[type=text] {
     width: 40%;
