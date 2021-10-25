@@ -7,7 +7,7 @@
 a ::after ::before {
     color: black;
 }
-// take care mainpage and login page (base stuctur)
+/* take care mainpage and login page (base stuctur)*/
 body {
     width: 1024px;
     margin-left: auto;
@@ -19,7 +19,7 @@ body {
     padding: 10px;
     font-family: sans-serif;
 }
-// header incuding nav
+/*header incuding nav*/
 .header nav {
     grid-area: header;
     height: 75px;
@@ -82,7 +82,7 @@ footer {
 main {
     grid-area: main-content;
 }
-// displays the aricals and main text
+/* displays the aricals and main text*/
 .start-side-content {
     display: grid;
     grid-template-areas: 'mainHead mainHead' 'mainText mainText' 'artical1 artical2';
@@ -134,7 +134,7 @@ b{
     background-color: #969696;
     padding-left: 3px;
 }
-// for the login page
+/* for the login page*/
 div {
     grid-area: wrapperContent;
 }
